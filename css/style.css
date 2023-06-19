@@ -92,14 +92,19 @@ li {
 
 /* TERZA/QUINTA SEZIONE */
 .bianco {
+  height: 400px;
   background-color: #ffffff;
 }
 
 .azzurro {
+  height: 300px;
+  width: 70%;
   background-color: #1e90ff;
 }
 
 .rosa {
+  height: 300px;
+  width: 30%;
   background-color: #ffc0cb;
 }
 
