@@ -128,14 +128,22 @@ li {
 
 /* SETTIMA SEZIONE */
 .nero {
+  height: 400px;
   background-color: #23272a;
+  border-bottom: whitesmoke;
 }
 
 .minoranza {
+  height: 300px;
+  width: 30%;
+  margin: 20px 0;
   background-color: #f08080;
 }
 
 .maggioranza {
+  height: 300px;
+  width: calc(70% / 4);
+  margin: 20px 0;
   background-color: #20b2aa;
 }
 
