@@ -151,8 +151,22 @@ li {
 .footer {
   height: 100px;
   background-color: #23272a;
+  align-items: flex-end;
 }
 
 .piede {
+  height: 80px;
+  width: 100%;
   background-color: #7fffd4;
+  align-items: center;
+}
+
+.logorosa {
+  height: 20px;
+  background-color: pink;
+}
+
+.bottonerosa {
+  height: 20px;
+  background-color: pink;
 }
