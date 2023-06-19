@@ -1,13 +1,14 @@
 /* GENERICS */
 
-html {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
 body {
-  width: 1180px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
 }
 
 .container {
@@ -17,6 +18,7 @@ body {
 
 ul {
   list-style-type: none;
+  align-items: center;
 }
 
 /* UTILS */
@@ -37,15 +39,38 @@ ul {
   align-items: center;
 }
 
-/* COLORI */
+.column {
+  flex-direction: column;
+}
+
+/* STRUCTURE */
 
 /* PRIMA SEZIONE */
 .header {
   background-color: #add8e6;
+  min-height: 100px;
+}
+
+.mezzeria {
+  height: 100px;
 }
 
 .canarino {
   background-color: #daa520;
+  min-height: 50px;
+}
+
+.logo {
+  margin: 0 40px 0 15px;
+}
+
+li {
+  padding: 2px 4px;
+  display: flex;
+}
+
+.bottone {
+  margin: 0 15px 0 40px;
 }
 
 /* SECONDA SEZIONE */
