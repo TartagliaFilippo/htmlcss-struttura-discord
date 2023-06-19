@@ -36,3 +36,68 @@ ul {
 .align-center {
   align-items: center;
 }
+
+/* COLORI */
+
+/* PRIMA SEZIONE */
+.header {
+  background-color: #add8e6;
+}
+
+.canarino {
+  background-color: #daa520;
+}
+
+/* SECONDA SEZIONE */
+.blu {
+  background-color: #00008b;
+}
+
+.rosaacceso {
+  background-color: #ee82ee;
+}
+
+/* TERZA/QUINTA SEZIONE */
+.bianco {
+  background-color: #ffffff;
+}
+
+.azzurro {
+  background-color: #1e90ff;
+}
+
+.rosa {
+  background-color: #ffc0cb;
+}
+
+/* QUARTA SEZIONE */
+.grigio {
+  background-color: #d3d3d3;
+}
+
+/* SESTA SEZIONE */
+.verde {
+  background-color: #228b22;
+}
+
+/* SETTIMA SEZIONE */
+.nero {
+  background-color: #23272a;
+}
+
+.minoranza {
+  background-color: #f08080;
+}
+
+.maggioranza {
+  background-color: #20b2aa;
+}
+
+/* OTTAVA SEZIONE */
+.footer {
+  background-color: #23272a;
+}
+
+.piede {
+  background-color: #7fffd4;
+}
