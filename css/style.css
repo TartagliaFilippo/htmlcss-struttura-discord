@@ -1,0 +1,38 @@
+/* GENERICS */
+
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 1180px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* UTILS */
+
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.align-center {
+  align-items: center;
+}
