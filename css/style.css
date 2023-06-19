@@ -19,6 +19,7 @@ body {
 ul {
   list-style-type: none;
   align-items: center;
+  padding: 0 25%;
 }
 
 /* UTILS */
@@ -47,6 +48,14 @@ ul {
   flex-direction: column;
 }
 
+.bnero {
+  border: 2px dashed black;
+}
+
+.bbianco {
+  border: 2px dashed white;
+}
+
 /* STRUCTURE */
 
 /* PRIMA SEZIONE */
@@ -65,7 +74,7 @@ ul {
 }
 
 .logo {
-  margin: 0 40px 0 15px;
+  padding: 0 9.5% 0 10px;
 }
 
 li {
@@ -74,7 +83,7 @@ li {
 }
 
 .bottone {
-  margin: 0 15px 0 40px;
+  padding: 0 10px 0 9.5%;
 }
 
 /* SECONDA SEZIONE */
@@ -130,7 +139,7 @@ li {
 .nero {
   height: 350px;
   background-color: #23272a;
-  border-bottom: 1px solid whitesmoke;
+  border-bottom: 2px solid whitesmoke;
 }
 
 .minoranza {
