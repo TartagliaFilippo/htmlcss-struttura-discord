@@ -115,7 +115,14 @@ li {
 }
 
 /* SESTA SEZIONE */
+.grigione {
+  height: 600px;
+  background-color: #d3d3d3;
+}
+
 .verde {
+  height: 500px;
+  width: 100%;
   background-color: #228b22;
 }
 
