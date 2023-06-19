@@ -110,7 +110,7 @@ li {
 
 /* QUARTA SEZIONE */
 .grigio {
-  height: 400px;
+  min-height: 400px;
   background-color: #d3d3d3;
 }
 
