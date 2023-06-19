@@ -39,6 +39,10 @@ ul {
   align-items: center;
 }
 
+.self-center {
+  align-self: center;
+}
+
 .column {
   flex-direction: column;
 }
@@ -75,10 +79,14 @@ li {
 
 /* SECONDA SEZIONE */
 .blu {
+  height: 400px;
   background-color: #00008b;
 }
 
 .rosaacceso {
+  height: 300px;
+  width: 60%;
+  margin: 50px 0;
   background-color: #ee82ee;
 }
 
