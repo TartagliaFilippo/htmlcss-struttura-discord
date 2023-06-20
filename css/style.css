@@ -12,14 +12,14 @@ body {
 }
 
 .container {
-  width: 80%;
+  width: 1180px;
   margin: 0 auto;
 }
 
 ul {
   list-style-type: none;
   align-items: center;
-  padding: 0 25%;
+  padding: 0 28.7%;
 }
 
 /* UTILS */
